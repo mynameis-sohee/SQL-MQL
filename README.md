@@ -1,3 +1,3 @@
-# SQL-MQL
+# SQL-Query-Tuning
 
-SQL / MQL query 연습 공간입니다.
+SQL query 연습 공간입니다.
